@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sxzebra
+- 👋 Hi, I’m @sxz
 - 👀 I’m interested in IoT, Security, Linux, 3D Printing
 - 🌱 I’m currently learning RTOS
 - 💞️ I’m looking to collaborate on anything
